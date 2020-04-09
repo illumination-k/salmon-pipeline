@@ -1,0 +1,4 @@
+test/
+*.fasta
+*.gff
+ref/
