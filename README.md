@@ -1,5 +1,11 @@
 # salmon pipeline
 
+## Use docker
+
+```bash
+docker run --rm -it -v $(pwd):/local_volume illumination27/salmon-pipeline-dev:v0 bash
+```
+
 ## downloading gff, genome.fasta and cds.fasta from marchantia.info
 
 ```bash
